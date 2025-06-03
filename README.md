@@ -1,6 +1,11 @@
-# Graph-Counselor
 
+<div align="center">
+   
 ## Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy
+
+![](assets/main.PNG)
+
+</div>
 
 ### Key Features
 
@@ -9,6 +14,8 @@
 🌐 Adaptive Graph Exploration: Dynamic retrieval strategies for complex knowledge graphs
 
 🔍 Self-Reflection: Multi-perspective analysis for improved accuracy
+
+
 
 ### Installation
 ```bash
