@@ -1,8 +1,11 @@
 
 <div align="center">
    
-## Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy
+## Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy 
 🏆 **ACL 2025 Main Conference Paper**  
+
+[![arXiv](https://img.shields.io/badge/arXiv-2506.03939-b31b1b.svg?style=for-the-badge)](https://arxiv.org/pdf/2506.03939)
+
 _Junqi Gao <sup>1,2</sup>, Xiang Zou <sup>2</sup>, Ying Ai <sup>3</sup>, Dong Li <sup>1,2,†</sup>, Yichen Niu <sup>3</sup>, Biqing Qi <sup>1,†</sup>, Jianxing Liu <sup>3</sup>_
 
 <sup>1</sup> _Shanghai Artificial Intelligence Laboratory_
@@ -47,3 +50,16 @@ pip install evaluate absl-py rouge_score
    ```bash scripts/run_Graph-Counselor.sh```
 3. Evaluation:
    ```bash eval.sh```
+
+
+### 📚 Citation
+```
+@article{gao2025graphcounselor,
+  title={Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy},
+  author={Junqi Gao and Xiang Zou and Ying Ai and Dong Li and Yichen Niu and Biqing Qi and Jianxing Liu},
+  journal={arXiv preprint arXiv:2506.03939},
+  year={2025},
+  url={https://arxiv.org/abs/2506.03939}
+}
+```
+
